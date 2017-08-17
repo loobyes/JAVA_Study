@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA_Study01/JAVA_Study01.iml" filepath="$PROJECT_DIR$/JAVA_Study01/JAVA_Study01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_Study02/JAVA_Study02.iml" filepath="$PROJECT_DIR$/JAVA_Study02/JAVA_Study02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_Study03/JAVA_Study03.iml" filepath="$PROJECT_DIR$/JAVA_Study03/JAVA_Study03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_Study04/JAVA_Study04.iml" filepath="$PROJECT_DIR$/JAVA_Study04/JAVA_Study04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_Study05/JAVA_Study05.iml" filepath="$PROJECT_DIR$/JAVA_Study05/JAVA_Study05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_Study06/JAVA_Study06.iml" filepath="$PROJECT_DIR$/JAVA_Study06/JAVA_Study06.iml" />
+    </modules>
+  </component>
+</project>
